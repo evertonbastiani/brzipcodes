@@ -51,7 +51,7 @@ Você pode fazer o download deste <a href='https://drive.google.com/drive/folder
           <tr>
               <td>Arquivo para importação da base de dados</td>
               <td></td>
-              <td><a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb'target='_blank'>Download</a> 
+              <td><a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb' target='_blank'>Download</a> 
           </td>
           </tr>          
      </tbody>
