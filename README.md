@@ -26,24 +26,23 @@ Projetos
           <tr>
                <td>Visual Studio Communty 2022</td>
                 <td>17.7.2</td>
-                <td><a href='https://visualstudio.microsoft.com/vs/community/' target='_blank'>Instalação do Visual Studio 
-                Community </a> </td>
+                <td><a href='https://visualstudio.microsoft.com/vs/community/' target='_blank'>Download</a> </td>
           </tr>
           <tr>
                <td>Mongo DB</td>
                 <td>7.0</td>
-                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Instalação do MongoDB </a> </td>
+                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Download</a> </td>
           </tr>
           <tr>
                <td>Atlas CLI (Mongo DB Compass)</td>
                <td>1.39.3</td>
-               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank'>Instalação do MongoDB Compass</a> 
+               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank'>Download</a> 
                </td>
           </tr>
           <tr>
                <td>Mongosh Shell</td>
                 <td>1.10.6</td>
-                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank'>Instalação do Mongosh shell </a> 
+                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank'>Download</a> 
           </td>
           </tr>
      </tbody>
@@ -77,24 +76,23 @@ Projects
           <tr>
                <td>Visual Studio Communty 2022</td>
                 <td>17.7.2</td>
-                <td><a href='https://visualstudio.microsoft.com/vs/community/' target='_blank'>Instalação do Visual Studio 
-                Community </a> </td>
+                <td><a href='https://visualstudio.microsoft.com/vs/community/' target='_blank'>Download</a> </td>
           </tr>
           <tr>
                <td>Mongo DB</td>
                 <td>7.0</td>
-                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Instalação do MongoDB </a> </td>
+                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Download</a> </td>
           </tr>
           <tr>
                <td>Atlas CLI (Mongo DB Compass)</td>
                <td>1.39.3</td>
-               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank'>Instalação do MongoDB Compass</a> 
+               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank'>Download</a> 
                </td>
           </tr>
           <tr>
                <td>Mongosh Shell</td>
                 <td>1.10.6</td>
-                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank'>Instalação do Mongosh shell </a> 
+                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank'>Download</a> 
           </td>
           </tr>
      </tbody>
