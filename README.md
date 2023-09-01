@@ -30,9 +30,8 @@ Detalhes Técnicos
           </tr>
           <tr>
                <td>Atlas CLI (Mongo DB Compass)</td>
-                <td>1.39.3</td>
-                <td><a href='[https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/compass)' 
-                  </a>Instalação do MongoDB Compass </td>
+               <td>1.39.3</td>
+               <td><a href='https://www.mongodb.com/try/download/compass'</a>Instalação do MongoDB Compass </td>
           </tr>
           <tr>
                <td>Mongosh Shell</td>
