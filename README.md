@@ -26,7 +26,7 @@ Detalhes Técnicos
           <tr>
                <td>Mongo DB</td>
                 <td>7.0</td>
-                <td><a href='https://www.mongodb.com/try/download/community' target='_blank' </a> </td>
+                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'</a> Download </td>
           </tr>
      </tbody>
 </table>
