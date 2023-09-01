@@ -1,6 +1,5 @@
 # brzipcodes
 O propósito deste projeto é demonstrar a conexão entre o .NET e o banco de dados NoSQl MongoDb e algumas conhecimento de Blazor.
-
 # Conteúdo do repositório
 Projetos
      <ul>
