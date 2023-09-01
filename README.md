@@ -4,12 +4,11 @@ O propósito deste projeto é demonstrar a conexão entre o .NET e o banco de da
 # Conteúdo do repositório
 Projetos
      <ul>
-       <li>TESte />
-       <li>Novo />
+      <li>Uma aplicação back-end do tipo Web API utilizando .NET Core 6.0 / A back-end Web API application using .NET Core 6.0</li>
+      </li>Uma aplicação front-end utilizando Blazor / A front-end application using Blazor</li>
+      </li>Um arquivo zip contendo os ceps do Brasil para importação no MongoDb</li>    
      </ul>
-    -> Uma aplicação back-end do tipo Web API utilizando .NET Core 6.0 / A back-end Web API application using .NET Core 6.0
-    -> Uma aplicação front-end utilizando Blazor / A front-end application using Blazor
-    -> Um arquivo zip contendo os ceps do Brasil para importação no MongoDb
+   
 
 # English
 The purpose of this project is to show the connection between .NET and MondoDb NoSQL database and some Blazor knowledge  
