@@ -26,7 +26,7 @@ Detalhes Técnicos
           <tr>
                <td>Mongo DB</td>
                 <td>7.0</td>
-                <td><a href='https://www.mongodb.com/try/download/community' target='_blank' </a>Instalação do MongoDB </td>
+                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Instalação do MongoDB </a> </td>
           </tr>
           <tr>
                <td>Atlas CLI (Mongo DB Compass)</td>
