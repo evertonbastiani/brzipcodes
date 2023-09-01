@@ -10,7 +10,7 @@ Projetos
 
 Detalhes Técnicos
 <table>
-     <thread>
+     <thead>
           <tr>
                <td>
                     Descrição
@@ -21,7 +21,7 @@ Detalhes Técnicos
                <td>Link
                </td>
           </tr>
-     </thread>
+     </thead>
      <tbody>
           <tr>
                <td>Mongo DB</td>
