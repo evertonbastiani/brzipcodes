@@ -8,6 +8,10 @@ Projetos
       <li>Um arquivo zip contendo os ceps do Brasil para importação no MongoDb</li>    
      </ul>   
 
+# Instruções
+Após instalar o MongoDb e o MongoDb Compass(marque a opção na hora a instalação do MongoDb) você precisará importar os dados para o banco.
+Você pode fazer o download deste <a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb'target='_blank'>arquivo</a> , descompacte para uma pasta de sua preferência e faça o import pelo MongoDb Compass.
+
 # Detalhes Técnicos
 <table>
      <thead>
@@ -62,6 +66,10 @@ Projects
       <li> A front-end application using Blazor</li>
       <li>A zip file with all brazilians zip codes to import on MongoDb</li>    
      </ul>
+
+# Instructions
+Once MongoDb and MongoDb Compass is installed(check the option during the installation) you'll need to import the data to database.
+You can download the this <a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb'target='_blank'>file</a> , then unzip it to you prefered folder and import it by using MongoDb Compass.
     
 # Technical Details
 <table>
