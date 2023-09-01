@@ -8,7 +8,7 @@ Projetos
       <li>Um arquivo zip contendo os ceps do Brasil para importação no MongoDb</li>    
      </ul>   
 
-Detalhes Técnicos
+# Detalhes Técnicos
 <table>
      <thead>
           <tr>
@@ -59,7 +59,43 @@ Projects
       <li>A zip file with all brazilians zip codes to import on MongoDb</li>    
      </ul>
     
-# Links
-<ul>
-     <li><a href='' </a>Instalação do MongoDB </li>
-</ul>
+# Technical Details
+<table>
+     <thead>
+          <tr>
+               <td>
+                    Description
+               </td>
+               <td>
+                    Version
+               </td>
+               <td>Link
+               </td>
+          </tr>
+     </thead>
+     <tbody>
+          <tr>
+               <td>Visual Studio Communty 2022</td>
+                <td>17.7.2</td>
+                <td><a href='https://visualstudio.microsoft.com/vs/community/' target='_blank'>Instalação do Visual Studio 
+                Community </a> </td>
+          </tr>
+          <tr>
+               <td>Mongo DB</td>
+                <td>7.0</td>
+                <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Instalação do MongoDB </a> </td>
+          </tr>
+          <tr>
+               <td>Atlas CLI (Mongo DB Compass)</td>
+               <td>1.39.3</td>
+               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank'>Instalação do MongoDB Compass</a> 
+               </td>
+          </tr>
+          <tr>
+               <td>Mongosh Shell</td>
+                <td>1.10.6</td>
+                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank'>Instalação do Mongosh shell </a> 
+          </td>
+          </tr>
+     </tbody>
+</table>
