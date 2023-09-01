@@ -26,17 +26,17 @@ Detalhes Técnicos
           <tr>
                <td>Mongo DB</td>
                 <td>7.0</td>
-                <td><a href='https://www.mongodb.com/try/download/community' </a>Instalação do MongoDB </td>
+                <td><a href='https://www.mongodb.com/try/download/community' target='_blank' </a>Instalação do MongoDB </td>
           </tr>
           <tr>
                <td>Atlas CLI (Mongo DB Compass)</td>
                <td>1.39.3</td>
-               <td><a href='https://www.mongodb.com/try/download/compass'</a>Instalação do MongoDB Compass </td>
+               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank' </a>Instalação do MongoDB Compass </td>
           </tr>
           <tr>
                <td>Mongosh Shell</td>
                 <td>1.10.6</td>
-                <td><a href='https://www.mongodb.com/docs/mongodb-shell/' </a>Instalação do Mongosh shell </td>
+                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank' </a>Instalação do Mongosh shell </td>
           </tr>
      </tbody>
 </table>
