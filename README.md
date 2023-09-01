@@ -8,6 +8,29 @@ Projetos
       <li>Um arquivo zip contendo os ceps do Brasil para importação no MongoDb</li>    
      </ul>   
 
+Detalhes Técnicos
+<table>
+     <thread>
+          <tr>
+               <td>
+                    Descrição
+               </td>
+               <td>
+                    Versão
+               </td>
+               <td>Link
+               </td>
+          </tr>
+     </thread>
+     <tbody>
+          <tr>
+               <td>Mongo DB</td>
+                <td>7</td>
+                <td>www</td>
+          </tr>
+     </tbody>
+</table>
+
 # Br Zip codes
 The purpose of this project is to show the connection between .NET and MondoDb NoSQL database and some Blazor knowledge  
 # Repository Content
@@ -20,5 +43,5 @@ Projects
     
 # Links
 <ul>
-     <li><a href='Instalação do MongoDB' </a> </li>
+     <li><a href='' </a>Instalação do MongoDB </li>
 </ul>
