@@ -24,6 +24,11 @@ Detalhes Técnicos
      </thead>
      <tbody>
           <tr>
+               <td>Visual Studio Communty 2022</td>
+                <td>7.0</td>
+                <td><a href='https://visualstudio.microsoft.com/vs/community/' target='_blank'>Instalação do Visual Studio Community </a> </td>
+          </tr>
+          <tr>
                <td>Mongo DB</td>
                 <td>7.0</td>
                 <td><a href='https://www.mongodb.com/try/download/community' target='_blank'>Instalação do MongoDB </a> </td>
