@@ -31,12 +31,14 @@ Detalhes Técnicos
           <tr>
                <td>Atlas CLI (Mongo DB Compass)</td>
                <td>1.39.3</td>
-               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank' </a>Instalação do MongoDB Compass </td>
+               <td><a href='https://www.mongodb.com/try/download/compass' target='_blank'>Instalação do MongoDB Compass</a> 
+               </td>
           </tr>
           <tr>
                <td>Mongosh Shell</td>
                 <td>1.10.6</td>
-                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank' </a>Instalação do Mongosh shell </td>
+                <td><a href='https://www.mongodb.com/docs/mongodb-shell/'target='_blank'>Instalação do Mongosh shell </a> 
+          </td>
           </tr>
      </tbody>
 </table>
