@@ -69,8 +69,9 @@ Projects
 
 # Instructions
 Once MongoDb and MongoDb Compass is installed(check the option during the installation) you'll need to import the data to database.
-You can download the this 
-<a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb 'target='_blank'>file</a> , then unzip it to you prefered folder and import it by using MongoDb Compass.
+You can download this <a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb' 
+ target='_blank'>file</a> 
+ , then unzip it to you prefered folder and import it by using MongoDb Compass.
     
 # Technical Details
 <table>
