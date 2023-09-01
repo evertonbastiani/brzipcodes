@@ -10,7 +10,7 @@ Projetos
 
 # Instruções
 Após instalar o MongoDb e o MongoDb Compass(marque a opção na hora a instalação do MongoDb) você precisará importar os dados para o banco.
-Você pode fazer o download deste <a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb'target='_blank'>arquivo</a> , descompacte para uma pasta de sua preferência e faça o import pelo MongoDb Compass.
+Você pode fazer o download deste <a href='https://drive.google.com/drive/folders/1Vez_G1A8uL1U_q5GcWKln3H-YNO8MPkb' target='_blank'>arquivo</a> , descompacte para uma pasta de sua preferência e faça o import pelo MongoDb Compass.
 
 # Detalhes Técnicos
 <table>
