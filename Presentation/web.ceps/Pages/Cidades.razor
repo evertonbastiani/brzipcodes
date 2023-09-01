@@ -1,0 +1,62 @@
+﻿@page "/Cidades"
+@inject ICepService _cepService;
+@using web.ceps.Services.Interface;
+<h3>Listagem de cidades</h3>
+
+<div class="col-md-1">
+	<label>Estados</label>
+	<select class="dropdown form-select form-select-lg" @onchange="ListarCidades">
+		@if(listUnidadesFederativas != null)
+		{
+			foreach (var strUF in listUnidadesFederativas)
+			{
+				<option>@strUF</option>
+			}
+		}
+	</select>
+</div>
+<div class="mt-2">
+	@if(listCidades != null)
+	{
+		<table class="table table-striped table-hover">
+			<thead>
+				<tr>
+					<th>
+						Cidade
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var strCidade in listCidades)
+				{
+					<tr>
+						<td>@strCidade</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	}
+</div>
+
+
+@code {
+	IEnumerable<string> listCidades = new List<string>();
+	IEnumerable<string> listUnidadesFederativas = new List<string>();
+
+
+	public async Task ListarUnidadesFederativas()
+	{
+		listUnidadesFederativas = await _cepService.ListarUnidadesFederativas();
+	}
+
+	protected override async Task OnInitializedAsync()
+	{
+		await ListarUnidadesFederativas();
+	}
+
+	public async Task ListarCidades(ChangeEventArgs e)
+	{
+		listCidades = await _cepService.ListarCidades(e.Value.ToString());
+	}
+
+}
