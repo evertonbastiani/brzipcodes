@@ -1,5 +1,6 @@
 ﻿@page "/Cidades"
 @inject ICepService _cepService;
+@inject IJSRuntime _jsRuntime;
 @using web.ceps.Services.Interface;
 <h3>Listagem de cidades</h3>
 
@@ -16,9 +17,10 @@
 	</select>
 </div>
 <div class="mt-2">
+	
 	@if(listCidades != null)
 	{
-		<table class="table table-striped table-hover">
+		<table id="tblCidades" class="table table-striped table-hover">
 			<thead>
 				<tr>
 					<th>
@@ -56,7 +58,14 @@
 
 	public async Task ListarCidades(ChangeEventArgs e)
 	{
+		await _jsRuntime.InvokeAsync<object>("DestroyDataTable", "#tblCidades");
 		listCidades = await _cepService.ListarCidades(e.Value.ToString());
+		if(listCidades != null && listCidades.Count() > 0)
+		{
+			await _jsRuntime.InvokeAsync<object>("CreateDataTable", "#tblCidades");
+		}
 	}
+
+	
 
 }
